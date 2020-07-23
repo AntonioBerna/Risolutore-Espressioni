@@ -1,6 +1,6 @@
 # Risolutore Espressioni
 
-Questo è il mio personale e super affidabile Risolutore di Espressioni scritto completamente in Python utilizzando la fantastica libreria Tkinter! ([Ho realizzato un corso base completamente gratuito e disponibile su Youtube dedicato alla libreria Tkinter](https://www.youtube.com/watch?v=W1De_q5ZD4E))
+Questo è il mio personale e super affidabile Risolutore di Espressioni scritto completamente in Python utilizzando la fantastica libreria Tkinter! ([Ho realizzato un corso base completamente gratuito e disponibile su Youtube dedicato a Tkinter](https://www.youtube.com/watch?v=W1De_q5ZD4E))
 
 ![](images/1.PNG)
 
