@@ -1,6 +1,6 @@
 # Risolutore Espressioni
 
-Questo è il mio personale e super affidabile Risolutore di Espressioni scritto completamente in Python utilizzando la fantastica libreria Tkinter! ([Ho realizzato un corso base completamente gratuito e disponibile su Youtube dedicato a Tkinter](https://www.youtube.com/watch?v=W1De_q5ZD4E))
+Questo è il mio personale e super affidabile Risolutore di Espressioni scritto completamente in Python utilizzando la fantastica libreria Tkinter! (**[Ho realizzato un corso base completamente gratuito e disponibile su Youtube dedicato a Tkinter](https://www.youtube.com/watch?v=W1De_q5ZD4E)**)
 
 ![](images/1.PNG)
 
@@ -11,21 +11,21 @@ Se non mi credi mettiamo alla prova il mio programma provando a digitare la segu
 Come puoi vedere, non solo, il mio Risolutore di Espressioni calcola il risultato dell'espressione inserita ma ne mostra anche i passaggi!
 Molto probabilmente non ti stupirai perchè l'espressione che ho inserito tu la risolveresti tranquillamente a mente, infatti, ho preparato alcune espressioni piuttosto laboriose da risolvere a mente:
 
-1) _9*2+15/3+4+(12/4)*2-3*5*2_
+A) **9*2+15/3+4+(12/4)*2-3*5*2**
 
 ![](images/3.PNG)
 
-2) _400 + ((63/21) + 19) - (16*7)_
+B) **400 + ((63/21) + 19) - (16*7)**
 
 ![](images/4.PNG)
 
-3) _3+(2^2)*7-(2^3)*2-5*3_
+C) **3+(2^2)*7-(2^3)*2-5*3**
 
 ![](images/5.PNG)
 
 
 # Per maggiori informazioni
 
-
+Corso Base Completo Python Tkinter [Youtube]: https://www.youtube.com/watch?v=W1De_q5ZD4E
 
 Created By Antonio Bernardini Copyright© 2020
