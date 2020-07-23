@@ -11,15 +11,15 @@ Se non mi credi mettiamo alla prova il mio programma provando a digitare la segu
 Come puoi vedere, non solo, il mio Risolutore di Espressioni calcola il risultato dell'espressione inserita ma ne mostra anche i passaggi!
 Molto probabilmente non ti stupirai perchè l'espressione che ho inserito tu la risolveresti tranquillamente a mente, infatti, ho preparato alcune espressioni piuttosto laboriose da risolvere a mente:
 
-A) _9*2+15/3+4+(12/4)*2-3*5*2_
+A) > 9*2+15/3+4+(12/4)*2-3*5*2
 
 ![](images/3.PNG)
 
-B) _400 + ((63/21) + 19) - (16*7)_
+B) > 400 + ((63/21) + 19) - (16*7)
 
 ![](images/4.PNG)
 
-C) _3+(2^2)*7-(2^3)*2-5*3_
+C) > 3+(2^2)*7-(2^3)*2-5*3
 
 ![](images/5.PNG)
 
