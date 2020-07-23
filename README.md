@@ -1,4 +1,6 @@
 # Risolutore_Espressioni
 
 
-# Per maggiori informazioni
+
+
+Created By Antonio Bernardini Copyright© 2020
