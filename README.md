@@ -4,8 +4,12 @@ Questo è il mio personale e super affidabile Risolutore di Espressioni scritto 
 
 ![](images/1.PNG)
 
-Se non mi credi mettiamo alla prova il mio programma provando a digitare la seguente espressione _1+2+3+4+5_:
+Se non mi credi mettiamo alla prova il mio programma provando a digitare la seguente espressione "_1+2+3+4+5_":
+
 ![](images/2.PNG)
+
+Come puoi vedere, non solo, il mio Risolutore di Espressioni calcola il risultato dell'espressione inserita ma ne mostra anche i passaggi!
+Molto probabilmente non ti stupirai perchè l'espressione che ho inserito tu la risolveresti tranquillamente a mente, infatti, ho preparato alcune espressioni piuttosto laboriose da risolvere a mente:
 
 ![](images/3.PNG)
 
