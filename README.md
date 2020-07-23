@@ -17,6 +17,8 @@ Molto probabilmente non ti stupirai perchè l'espressione che ho inserito tu la 
 
 ![](images/5.PNG)
 
+Ora sei stupito?
+
 # Per maggiori informazioni
 
 Corso Base Completo Python Tkinter [Youtube]: https://www.youtube.com/watch?v=W1De_q5ZD4E
