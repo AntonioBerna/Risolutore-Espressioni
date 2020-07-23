@@ -1,7 +1,14 @@
 # Risolutore Espressioni
 
 
-![](images/12210c115c9301f98fc9f1c1abc8b2192b6eefc5.svg)
+![](images/1.png)
+
+![](images/2.png)
+
+![](images/3.png)
+
+![](images/4.png)
+
 
 
 Created By Antonio Bernardini Copyright© 2020
