@@ -16,7 +16,7 @@ Come puoi vedere, non solo, il mio Risolutore di Espressioni calcola il risultat
 Molto probabilmente non ti stupirai perchè l'espressione che ho inserito tu la risolveresti tranquillamente a mente, infatti, ho preparato alcune espressioni piuttosto laboriose da risolvere a mente:
 
 <p align="center">
-  <img width="200" heigth="200" src="images/3.PNG">
+  <img width="400" heigth="400" src="images/3.PNG">
   <img width="400" heigth="400" src="images/4.PNG">
   <img width="400" heigth="400" src="images/5.PNG">
 </p>
