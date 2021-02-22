@@ -25,4 +25,4 @@ Molto probabilmente non ti stupirai perchè l'espressione che ho inserito tu la 
 
 Corso Base Completo Python Tkinter [Youtube]: https://www.youtube.com/watch?v=W1De_q5ZD4E
 
-Created By Antonio Bernardini Copyright© 2020
+Created By Antonio Bernardini Copyright© 2021
